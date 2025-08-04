@@ -1,0 +1,5 @@
+openai
+python-pptx
+requests
+beautifulsoup4
+python-dotenv
